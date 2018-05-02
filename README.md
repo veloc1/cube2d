@@ -1,1 +1,1 @@
-!(itsacube.gif)][itsacube.gif]
+![itsacube.gif](itsacube.gif)
